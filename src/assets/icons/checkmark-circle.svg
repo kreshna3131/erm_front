@@ -1,0 +1,16 @@
+<svg id="checkmark-circle-2" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #0d9a89;
+      }
+
+      .cls-1 {
+        opacity: 0;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle_6338" data-name="Rectangle 6338" class="cls-1" width="24" height="24"/>
+  <path id="Path_1907" data-name="Path 1907" class="cls-2" d="M12,2A10,10,0,1,0,22,12,10,10,0,0,0,12,2Zm0,18a8,8,0,1,1,8-8A8,8,0,0,1,12,20Z"/>
+  <path id="Path_1908" data-name="Path 1908" class="cls-2" d="M14.7,8.39l-3.78,5L9.29,11.28a1,1,0,1,0-1.58,1.23l2.43,3.11a1,1,0,0,0,1.58-.01l4.57-6a1.006,1.006,0,0,0-1.6-1.22Z"/>
+</svg>

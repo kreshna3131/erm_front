@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_bulk_search-zoom-in" data-name="vuesax/bulk/search-zoom-in" transform="translate(-172 -188)">
+    <g id="search-zoom-in">
+      <path id="Vector" d="M18.02,9.01A9.01,9.01,0,1,1,9.01,0,9.01,9.01,0,0,1,18.02,9.01Z" transform="translate(174 190)" fill="#11b3cf" opacity="0.4"/>
+      <path id="Vector-2" data-name="Vector" d="M6.5,3.25A.755.755,0,0,1,5.75,4H4V5.75a.75.75,0,0,1-1.5,0V4H.75a.75.75,0,0,1,0-1.5H2.5V.75A.75.75,0,0,1,4,.75V2.5H5.75A.755.755,0,0,1,6.5,3.25Z" transform="translate(179.75 195.75)" fill="#11b3cf"/>
+      <path id="Vector-3" data-name="Vector" d="M3.992.95A2.1,2.1,0,0,0,2.022,0,2.02,2.02,0,0,0,.342.79a2.029,2.029,0,0,0-.22,1.84c.43,1.3,1.18,1.59,1.59,1.64a1.148,1.148,0,0,0,.19.01A2.168,2.168,0,0,0,3.682,3.1,2.06,2.06,0,0,0,3.992.95Z" transform="translate(189.998 206)" fill="#11b3cf"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0H24V24H0Z" transform="translate(172 188)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+.ck.ck-toolbar {
+  border: none;
+  background-color: #FFFFFF;
+  border-bottom-color: #EFF2F5;
+  border-bottom-style: solid;
+}
+
+.ck.ck-editor__top .ck-sticky-panel .ck-toolbar {
+  border-bottom-width: 1px;
+}
+
+.ck.ck-editor__main>.ck-editor__editable:not(.ck-focused) {
+  border: none;
+}
+
+.ck.ck-editor__editable.ck-focused:not(.ck-editor__nested-editable) {
+  border: none;
+  box-shadow: none;
+}
+
+.ck .ck-toolbar_grouping {
+  padding: 10px 20px;
+}
+
+.ck .ck-sticky-panel .ck-sticky-panel__content_sticky {
+  position: static !important;
+}

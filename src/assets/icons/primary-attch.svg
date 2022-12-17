@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+  <g id="Group_8493" data-name="Group 8493" transform="translate(-328 -531)">
+    <circle id="Ellipse_883" data-name="Ellipse 883" cx="22" cy="22" r="22" transform="translate(328 531)" fill="#0d9a89" opacity="0.1"/>
+    <g id="vuesax_bulk_paperclip-2" data-name="vuesax/bulk/paperclip-2" transform="translate(-218 353)">
+      <g id="paperclip-2">
+        <path id="Vector" d="M14.19,0H5.81C2.17,0,0,2.17,0,5.81v8.37C0,17.83,2.17,20,5.81,20h8.37c3.64,0,5.81-2.17,5.81-5.81V5.81C20,2.17,17.83,0,14.19,0Z" transform="translate(558 190)" fill="#0d9a89" opacity="0.4"/>
+        <path id="Vector-2" data-name="Vector" d="M6.192,11.13a2.745,2.745,0,0,1-1.94-4.69l1.41-1.41a.75.75,0,0,1,1.06,1.06L5.312,7.5a1.252,1.252,0,0,0,1.77,1.77L9.3,7.05a3.259,3.259,0,0,0,0-4.6,3.328,3.328,0,0,0-4.6,0L2.283,4.87a2.692,2.692,0,0,0,0,3.79.75.75,0,0,1-1.06,1.06,4.183,4.183,0,0,1,0-5.91l2.42-2.42a4.75,4.75,0,0,1,8.11,3.36,4.712,4.712,0,0,1-1.39,3.36l-2.22,2.22A2.772,2.772,0,0,1,6.192,11.13Z" transform="translate(562.008 194.53)" fill="#0d9a89"/>
+        <path id="Vector-3" data-name="Vector" d="M0,0H24V24H0Z" transform="translate(556 188)" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,56 @@
+//
+// To make future updates easier consider overriding the global variables from _variables.bootstrap.scss and _variables.custom.scss for current demo in this file.
+// Note that this file is included first and variables defined in _variables.bootstrap.scss and _variables.custom.scss
+// are not accessible in this file but you can override any global variable as shown below:
+//
+
+// Theme colors
+// Primary
+$primary: if(isDarkMode(), #3699ff, #0d9a89);
+$primary-active: if(isDarkMode(), #187de4, #027c6f);
+$primary-light: if(isDarkMode(), #212e48, rgba(#0d9a89, 0.1));
+$primary-inverse: #ffffff;
+
+// Light
+$light: if(isDarkMode(), #0bb783, #f5f8fa);
+$light-active: if(isDarkMode(), #04aa77, #eff2f5);
+
+// Dark
+$dark: if(isDarkMode(), #0bb783, #181c32);
+$dark-active: if(isDarkMode(), #04aa77, #131628);
+
+// Secondary
+$secondary: if(isDarkMode(), #0bb783, #0c96c5);
+$secondary-active: if(isDarkMode(), #04aa77, #04779d);
+$secondary-light: if(isDarkMode(), #1c3238, rgba(#0c96c5, 0.1));
+$secondary-inverse: #ffffff;
+
+// Success
+$success: if(isDarkMode(), #0bb783, #75c44c);
+$success-active: if(isDarkMode(), #04aa77, #59ad2c);
+$success-light: if(isDarkMode(), #1c3238, rgba(#75c44c, 0.1));
+$success-inverse: #ffffff;
+
+// Info
+$info: if(isDarkMode(), #8950fc, #11b3cf);
+$info-active: if(isDarkMode(), #7337ee, #029ebb);
+$info-light: if(isDarkMode(), #2f264f, rgba(#11b3cf, 0.1));
+$info-inverse: #ffffff;
+
+// purple
+$purple: if(isDarkMode(), #8950fc, #8950fc);
+$purple-active: if(isDarkMode(), #7337ee, #7337ee);
+$purple-light: if(isDarkMode(), #2f264f, rgba(#8950fc, 0.1));
+$purple-inverse: #ffffff;
+
+// Danger
+$danger: if(isDarkMode(), #f64e60, #cb003f);
+$danger-active: if(isDarkMode(), #ee2d41, #a40032);
+$danger-light: if(isDarkMode(), #3a2434, rgba(#cb003f, 0.1));
+$danger-inverse: #ffffff;
+
+// Warning
+$warning: if(isDarkMode(), #ffa800, #f79d25);
+$warning-active: if(isDarkMode(), #ee9d01, #d07a07);
+$warning-light: if(isDarkMode(), #392f28, rgba(#f79d25, 0.1));
+$warning-inverse: #ffffff;

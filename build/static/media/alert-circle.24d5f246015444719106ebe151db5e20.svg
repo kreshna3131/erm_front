@@ -1,0 +1,17 @@
+<svg id="alert-circle" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #cb003f;
+      }
+
+      .cls-1 {
+        opacity: 0;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle_6339" data-name="Rectangle 6339" class="cls-1" width="24" height="24"/>
+  <path id="Path_1909" data-name="Path 1909" class="cls-2" d="M12,2A10,10,0,1,0,22,12,10,10,0,0,0,12,2Zm0,18a8,8,0,1,1,8-8A8,8,0,0,1,12,20Z"/>
+  <circle id="Ellipse_1035" data-name="Ellipse 1035" class="cls-2" cx="1" cy="1" r="1" transform="translate(11 15)"/>
+  <path id="Path_1910" data-name="Path 1910" class="cls-2" d="M12,7a1,1,0,0,0-1,1v5a1,1,0,0,0,2,0V8A1,1,0,0,0,12,7Z"/>
+</svg>

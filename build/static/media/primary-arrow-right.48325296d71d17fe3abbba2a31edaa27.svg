@@ -1,0 +1,5 @@
+<svg id="Group_8056" data-name="Group 8056" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path className="exception" id="Path_1621" data-name="Path 1621" d="M0,0H24V24H0Z" fill="none" fill-rule="evenodd"/>
+  <rect id="Rectangle_4795" data-name="Rectangle 4795" width="2" height="9" rx="1" transform="translate(4 13) rotate(-90)" fill="#0d9a89" opacity="0.3"/>
+  <path id="Path_1622" data-name="Path 1622" d="M9.707-15.707a1,1,0,0,0-1.414,0,1,1,0,0,0,0,1.414l6,6a1,1,0,0,0,1.383.03l6-5.5a1,1,0,0,0,.062-1.413,1,1,0,0,0-1.413-.061L15.03-10.384Z" transform="translate(27 27) rotate(-90)" fill="#0d9a89"/>
+</svg>

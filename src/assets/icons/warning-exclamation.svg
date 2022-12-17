@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_bulk_info-circle" data-name="vuesax/bulk/info-circle" transform="translate(-364 -252)">
+    <g id="info-circle">
+      <path id="Vector" d="M20,10A10,10,0,1,1,10,0,10,10,0,0,1,20,10Z" transform="translate(366 254)" fill="#f79d25"
+        opacity="0.4" />
+      <path id="Vector-2" data-name="Vector"
+        d="M.75,6.5a.755.755,0,0,0,.75-.75v-5A.755.755,0,0,0,.75,0,.755.755,0,0,0,0,.75v5A.755.755,0,0,0,.75,6.5Z"
+        transform="translate(375.25 259.25)" fill="#f79d25" />
+      <path id="Vector-3" data-name="Vector"
+        d="M1.92.615a1.155,1.155,0,0,0-.21-.33,1.155,1.155,0,0,0-.33-.21,1,1,0,0,0-.76,0,1.155,1.155,0,0,0-.33.21,1.155,1.155,0,0,0-.21.33A1,1,0,0,0,0,1a1,1,0,0,0,.08.38,1.032,1.032,0,0,0,.21.33,1.155,1.155,0,0,0,.33.21A1,1,0,0,0,1,2a1,1,0,0,0,.38-.08,1.155,1.155,0,0,0,.33-.21,1.032,1.032,0,0,0,.21-.33A1,1,0,0,0,2,1,1,1,0,0,0,1.92.615Z"
+        transform="translate(375 267.005)" fill="#f79d25" />
+      <path id="Vector-4" data-name="Vector" d="M0,0H24V24H0Z" transform="translate(364 252)" fill="none" opacity="0" />
+    </g>
+  </g>
+</svg>

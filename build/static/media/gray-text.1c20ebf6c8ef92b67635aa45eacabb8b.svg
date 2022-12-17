@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Layer_2" data-name="Layer 2" transform="translate(24) rotate(90)">
+    <g id="bar-chart">
+      <rect id="Rectangle_5807" data-name="Rectangle 5807" width="24" height="24" transform="translate(24) rotate(90)"
+        fill="#a1a5b7" opacity="0" />
+      <path id="Path_1862" data-name="Path 1862" d="M12,4a1,1,0,0,0-1,1V20a1,1,0,0,0,2,0V5A1,1,0,0,0,12,4Z"
+        fill="#a1a5b7" />
+      <path id="Path_1863" data-name="Path 1863" d="M19,12a1,1,0,0,0-1,1v7a1,1,0,0,0,2,0V13A1,1,0,0,0,19,12Z"
+        fill="#a1a5b7" />
+      <path id="Path_1864" data-name="Path 1864" d="M5,8A1,1,0,0,0,4,9V20a1,1,0,0,0,2,0V9A1,1,0,0,0,5,8Z"
+        fill="#a1a5b7" />
+    </g>
+  </g>
+</svg>

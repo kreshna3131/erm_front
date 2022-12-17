@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_bulk_search-status" data-name="vuesax/bulk/search-status" transform="translate(-364 -188)">
+    <g id="search-status">
+      <path id="Vector" d="M18.02,9.01A9.01,9.01,0,1,1,9.01,0,9.01,9.01,0,0,1,18.02,9.01Z"
+        transform="translate(365.99 189.99)" fill="#fff" opacity="0.4" />
+      <path id="Vector-2" data-name="Vector"
+        d="M6.75,1.5h-6A.755.755,0,0,1,0,.75.755.755,0,0,1,.75,0h6A.755.755,0,0,1,7.5.75.755.755,0,0,1,6.75,1.5Z"
+        transform="translate(371.25 196.75)" fill="#fff" />
+      <path id="Vector-3" data-name="Vector"
+        d="M3.75,1.5h-3A.755.755,0,0,1,0,.75.755.755,0,0,1,.75,0h3A.755.755,0,0,1,4.5.75.755.755,0,0,1,3.75,1.5Z"
+        transform="translate(371.25 199.75)" fill="#fff" />
+      <path id="Vector-4" data-name="Vector"
+        d="M3.992.95A2.1,2.1,0,0,0,2.022,0,2.02,2.02,0,0,0,.342.79a2.029,2.029,0,0,0-.22,1.84c.43,1.3,1.18,1.59,1.59,1.64a1.148,1.148,0,0,0,.19.01A2.168,2.168,0,0,0,3.682,3.1,2.06,2.06,0,0,0,3.992.95Z"
+        transform="translate(381.998 206)" fill="#fff" />
+      <path id="Vector-5" data-name="Vector" d="M0,0H24V24H0Z" transform="translate(364 188)" fill="none" opacity="0" />
+    </g>
+  </g>
+</svg>

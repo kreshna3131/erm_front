@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_bulk_glass" data-name="vuesax/bulk/glass" transform="translate(-172 -316)">
+    <g id="glass">
+      <path id="Vector"
+        d="M11.942,9.01H4.262C.072,9.01-.758,6.48.6,3.4L2.042.13a19.268,19.268,0,0,1,6.06.88,7.36,7.36,0,0,0,5.83-.89l.19-.12,1.49,3.41C16.952,6.49,16.072,9.01,11.942,9.01Z"
+        transform="translate(175.898 328.99)" fill="#0d9a89" />
+      <path id="Vector-2" data-name="Vector"
+        d="M12.08,10.99l-.19.12A7.36,7.36,0,0,1,6.06,12,19.268,19.268,0,0,0,0,11.12L2.8,4.74H2.5A2.37,2.37,0,0,1,2.5,0H9.61a2.365,2.365,0,0,1,1.68.7,2.335,2.335,0,0,1,.63,2.25A2.447,2.447,0,0,1,9.5,4.74H9.34Z"
+        transform="translate(177.94 318)" fill="#0d9a89" opacity="0.4" />
+      <path id="Vector-3" data-name="Vector" d="M0,0H24V24H0Z" transform="translate(172 316)" fill="none" opacity="0" />
+    </g>
+  </g>
+</svg>

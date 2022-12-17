@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14" className="mb-1">
+  <g id="Layer_2" data-name="Layer 2" transform="translate(0 0.497)">
+    <g id="alert-circle">
+      <rect id="Rectangle_4605" data-name="Rectangle 4605" width="14" height="14" transform="translate(0 -0.497)"
+        fill="#a1a5b7" opacity="0" />
+      <path id="Path_1612" data-name="Path 1612"
+        d="M7.626,2a5.626,5.626,0,1,0,5.626,5.626A5.626,5.626,0,0,0,7.626,2Zm0,8.439a.563.563,0,1,1,.563-.563A.563.563,0,0,1,7.626,10.439Zm.563-2.25a.563.563,0,0,1-1.125,0V5.376a.563.563,0,0,1,1.125,0Z"
+        transform="translate(-0.875 -0.875)" fill="#a1a5b7" />
+    </g>
+  </g>
+</svg>
